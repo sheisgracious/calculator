@@ -7,3 +7,5 @@
 - Clone this repo
 - run *calc.py*
 
+
+For SEO Tech residency practice
